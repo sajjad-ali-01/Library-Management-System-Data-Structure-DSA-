@@ -5,7 +5,7 @@ Our project is a library management system developed in C++ using data structure
 # Data Structures Used
 • Queues • BST • Linked List • Hashing
 
-#IDEA 
+# IDEA 
 Idea of this project is to facilitate LIBRARY MANAGEMENT
 SYSTEM. This project will contain the following main features.
 1. Exit
@@ -17,7 +17,7 @@ SYSTEM. This project will contain the following main features.
 7. Return Book
 8. Display Issued books
 
-#Details
+# Details
  Insert books
 User can input All data of books such as Name of the book,
 author name.
