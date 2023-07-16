@@ -20,9 +20,9 @@ SYSTEM. This project will contain the following main features.
 # Details
 • Insert books
 User can input All data of books such as Name of the book,
-author name.
-• You can search the search a particular book by its name.
-• You can see all books present in your library.
-• It can also have the record of issued books to persons.
-• Delete’s a particular book.
-• If a book return then it will be restore in its place.
+author name
+• You can search the search a particular book by its name
+• You can see all books present in your library
+• It can also have the record of issued books to persons
+• Delete’s a particular book
+• If a book return then it will be restore in its place
